@@ -1903,6 +1903,9 @@
     <property name="Neutral Flyover Allowed" value="false" editable="false">
       <boolean/>
     </property>
+    <property name="Damage From Bombing Done To Units Instead Of Territories" value="true" editable="false">
+      <boolean/>
+    </property>
     <property name="mapName" value="world_war_ii_v5_1942" editable="false"/>
     <property name="notes">
       <value><![CDATA[

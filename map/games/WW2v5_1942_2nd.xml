@@ -1888,9 +1888,6 @@
     <property name="Raids May Be Preceeded By Air Battles" value="false" editable="true">
       <boolean/>
     </property>
-    <property name="SBR Affects Unit Production" value="true" editable="false">
-      <boolean/>
-    </property>
     <property name="neutralCharge" value="9999999" editable="false">
       <number min="0" max="9999999"/>
     </property>

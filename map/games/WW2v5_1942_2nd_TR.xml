@@ -1392,6 +1392,10 @@
       <option name="canalName" value="Panama Canal"/>
       <option name="landTerritories" value="Central America"/>
     </attachment>
+    <attachment name="techAbilityAttachment" attachTo="longRangeAir" javaClass="games.strategy.triplea.attachments.TechAbilityAttachment" type="technology">
+      <option name="movementBonus" value="1:fighter"/>
+      <option name="movementBonus" value="1:bomber"/>
+    </attachment>
     <!--
 				<attachment name="canalAttachmentTurkish_Straits" attachTo="17 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
 						<option name="canalName" value="Turkish Straits"/>

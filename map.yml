@@ -1,0 +1,4 @@
+map_name: world_war_ii_v5_1942
+games:
+- {game_name: World War II v5 1942 SE TR, file_name: WW2v5_1942_2nd_TR.xml}
+- {game_name: World War II v5 1942 Second Edition, file_name: WW2v5_1942_2nd.xml}
